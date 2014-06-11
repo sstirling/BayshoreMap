@@ -1,0 +1,10 @@
+Template for scroll-driven navigation map, as used in Star-Ledger’s Forgotten Shore project: 
+
+http://data.nsl.webfactional.com/sandbox/spitetest.html
+
+This map was adapted from Mapbox’s Sherlock Holmes tutorial, “The Adventure of the Bruce Partington Plans: 
+
+https://www.mapbox.com/mapbox.js/example/v1.0.0/scroll-driven-navigation/
+
+NOTE: May need to be updated to accommodate changes to Mapbox.js
+
